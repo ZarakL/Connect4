@@ -1,2 +1,2 @@
 # Connect4
-Connect 4 game with server, client, player vs. player functionality. Built using Java.
+Fully developed Connect 4 game with server, client, and player vs. player functionality. Built using Java.
